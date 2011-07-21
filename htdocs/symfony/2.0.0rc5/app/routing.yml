@@ -1,0 +1,3 @@
+_hello:
+    pattern:  /hello/world
+    defaults: { _controller: AcmeHelloBundle:Hello:index }
